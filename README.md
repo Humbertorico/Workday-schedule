@@ -8,7 +8,8 @@ save in local storage.
 
 
 ## installation
-![workday](image/work-app.jpg)
+if you see this your good 
+![workday](/Users/humbertorico/Desktop/Workday-schedule/images/work-app.jpg)
 
 
 ## Built With
