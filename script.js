@@ -20,6 +20,7 @@ $(".saveBtn").on('click', function(){
 });
 
 
+ //local storage information 
 $('#hour8 .description').val(localStorage.getItem('hour8'));
 $('#hour9 .description').val(localStorage.getItem('hour9'));
 $('#hour10 .description').val(localStorage.getItem('hour10'));
@@ -32,6 +33,7 @@ $('#hour16 .description').val(localStorage.getItem('hour16'));
 $('#hour17 .description').val(localStorage.getItem('hour17'));
 
 
+// function to make color change past,present or future.
 function auditTask() {
     var currenthour = today.hours();
 
@@ -57,3 +59,6 @@ setTimeout(function(){
 
     location = "";
 }, 1000 * 60);
+
+
+
