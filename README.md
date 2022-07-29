@@ -8,8 +8,13 @@ save in local storage.
 
 
 ## installation
-if you see this your good 
-![workday](/Users/humbertorico/Desktop/Workday-schedule/images/work-app.jpg)
+there is no installation required for this website. you can simply click the link and it will direct you to the website!
+
+link: https://humbertorico.github.io/Workday-schedule/
+
+when you click the link, you should see a website similar to the image below.
+
+![workday](/Users/humbertorico/Desktop/Workday-schedule/images/workday.png)
 
 
 ## Built With
